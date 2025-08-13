@@ -93,3 +93,36 @@ Thuật toán này tạo ra các bản tóm tắt có độ dài n, trong đó n
 
 3. Kết luận & Hướng phát triển: (Thường là từ những đánh giá chưa được đem qua hướng phát triển)
 
+
+
+## Tài liệu tham khảo
+
+[1]. https://addepto.com/blog/text-summarization-using-nlp-techniques-and-use-cases
+[3]. https://arxiv.org/html/2403.02901v2
+
+[4]. https://www.mdpi.com/2673-4591/59/1/194
+
+[5]. https://apni.ru/article/7905-vietnamese-online-newspapers-summarization-us
+
+[6]. https://aclanthology.org/W04-3252.pdf
+
+[7]. https://www.databricks.com/glossary/what-are-dataframes
+
+[8]. https://www.ibm.com/think/topics/data-cleaning 
+
+[9]. https://www.analyticsvidhya.com/blog/2019/08/
+how-to-remove-stopwords-text-normalization-nltk-spacy-gensim-python
+[10]. https://www.ibm.com/think/topics/stemming-lemmatization
+
+[11]. https://www.baeldung.com/cs/ml-similarities-in-text
+
+[12]. https://deepai.org/machine-learning-glossary-and-terms/cosine-similarity
+
+[13]. https://vi.wikipedia.org/wiki/Kho%E1%BA%A3ng_c%C3%A1ch_Euclid
+
+[14]. https://en.wikipedia.org/wiki/PageRank
+
+[15]. https://en.wikipedia.org/wiki/Precision_and_recall
+
+[16]. https://en.wikipedia.org/wiki/Matplotlib
+
